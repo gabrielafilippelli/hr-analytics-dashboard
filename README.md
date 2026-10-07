@@ -1,4 +1,4 @@
-# HR Analytics Dashboard
+# HR Operations & Employee Lifecycle Dashboard
 
 ## Project Overview
 Developed a Power BI dashboard to monitor HR metrics and provide insights into employee performance, retention, and operational efficiency. The dashboard supports decision-making for HR and management teams.
